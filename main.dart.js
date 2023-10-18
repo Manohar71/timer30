@@ -52340,7 +52340,7 @@ aD(){return new A.Ix(B.p)}}
 A.Ix.prototype={
 R(a){var s,r=null
 if(this.d){s=$.aaj()
-s=new A.rz(B.i8,new A.h4(Date.now(),!1).A(0,A.bE(0,0,0,4)),new A.Zq(this),!1,s,s,r)}else s=A.rn("WTF..! CHILL BRO",A.ak0().$4$color$fontSize$fontStyle$fontWeight(B.h,170,B.a5,B.ao))
+s=new A.rz(B.i8,new A.h4(Date.now(),!1).A(0,A.bE(0,0,30,0)),new A.Zq(this),!1,s,s,r)}else s=A.rn("WTF..! CHILL BRO",A.ak0().$4$color$fontSize$fontStyle$fontWeight(B.h,170,B.a5,B.ao))
 return new A.qU(A.a02(s,r,r),B.l,r)}}
 A.Zq.prototype={
 $0(){var s=this.a
